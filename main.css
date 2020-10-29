@@ -1,0 +1,9 @@
+#container{
+    text-align: center;
+    justify-content: center;
+}
+
+ul{
+    width: 10%;
+    margin: auto;
+}
